@@ -10,6 +10,7 @@ set up all the libraries for you!
 
 Gamebanana: https://gamebanana.com/mods/522709
 
-FNF Weekly X FNF Prickly    [Screenshot_20240921_172238_CapCut](https://github.com/user-attachments/assets/24fe0077-85c6-4a89-a684-664419d1428a)
+FNF Weekly X FNF Prickly
+![369630932-24fe0077-85c6-4a89-a684-664419d1428a](https://github.com/user-attachments/assets/3c0beab8-bd8e-48fa-b590-3fab1e0a4e51)
 
 
