@@ -10,6 +10,27 @@ set up all the libraries for you!
 
 Gamebanana: https://gamebanana.com/mods/522709
 
+YOU NEED HAVE 1.1 OR 0.9 GB OK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 FNF Weekly X FNF Prickly
 ![369630932-24fe0077-85c6-4a89-a684-664419d1428a](https://github.com/user-attachments/assets/3c0beab8-bd8e-48fa-b590-3fab1e0a4e51)
 
